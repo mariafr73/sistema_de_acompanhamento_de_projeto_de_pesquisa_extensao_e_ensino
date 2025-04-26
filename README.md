@@ -117,5 +117,5 @@ struct no {
 ### Desenvolverores 
 #
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/141454612?v=4" width=115><br><sub> Maria Francisca </sub>](https://github.com/mariafr73) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/58538765?v=4" width=115><br><sub> Pedro Carlos </sub>](https://github.com/PedroCarlos30) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/141454612?v=4](https://avatars.githubusercontent.com/u/155568241?v=4" width=115><br><sub> Maria Francisca </sub>](https://github.com/mariafr73) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/58538765?v=4" width=115><br><sub> Pedro Carlos </sub>](https://github.com/PedroCarlos30) |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
